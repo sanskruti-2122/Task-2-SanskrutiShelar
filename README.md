@@ -34,5 +34,6 @@ The objective was to ensure that the website adapts seamlessly across desktop, t
 
 ## Author
 
-Sanskruti Shelar
-DecodeLabs Frontend Development Internship
+Sanskruti Shelar<br>
+Frontend Development Intern<br>
+DecodeLabs
