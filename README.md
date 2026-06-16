@@ -12,19 +12,24 @@ The objective of Project 2 was to create a responsive web layout that adapts sea
 
 ### Desktop View
 
-![Desktop View](screenshots/desktop-view.png)
+![Desktop View](Screenshots/desktop_view.png)
 
 ### Tablet View
 
-![Tablet View](screenshots/tablet-view.png)
+![Tablet View](Screenshots/tablet_view.png)
 
 ### Mobile View
 
-![Mobile View](screenshots/mobile-view.png)
+![Mobile View](Screenshots/mobile_view.png)
 
 ### Responsive Navigation
 
-![Responsive Navbar](screenshots/responsive-navbar.png)
+![Responsive Navbar](Screenshots/responsive_navbar.png)
+
+### Footer Section
+
+![Footer Section](Screenshots/footer_mobile.png)
+
 
 ---
 
