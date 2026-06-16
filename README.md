@@ -2,38 +2,79 @@
 
 ## Overview
 
-This project extends the Cake Shop Website by implementing responsive web design principles.
+This project was developed as part of the DecodeLabs Frontend Development Internship.
 
-The objective was to ensure that the website adapts seamlessly across desktop, tablet, and mobile devices.
+The objective of Project 2 was to create a responsive web layout that adapts seamlessly across desktop, tablet, and mobile devices using CSS media queries and responsive design techniques.
+
+---
+
+## Project Preview
+
+### Desktop View
+
+![Desktop View](screenshots/desktop-view.png)
+
+### Tablet View
+
+![Tablet View](screenshots/tablet-view.png)
+
+### Mobile View
+
+![Mobile View](screenshots/mobile-view.png)
+
+### Responsive Navigation
+
+![Responsive Navbar](screenshots/responsive-navbar.png)
+
+---
 
 ## Features
 
-* Responsive navigation bar
-* Mobile-friendly layout
-* CSS Media Queries
-* Flexible sections and cards
-* Proper spacing and alignment across devices
-* Improved user experience on different screen sizes
+- Responsive Navigation Bar
+- Mobile-Friendly Layout
+- Hamburger Menu for Small Screens
+- Flexible Grid Layouts
+- Responsive Images
+- Optimized Spacing and Alignment
+- Hero Section
+- Product Showcase
+- Customer Reviews Section
+- Celebration Extras Section
+- Footer with Contact Information
+
+---
 
 ## Technologies Used
 
-* HTML5
-* CSS3
-* CSS Media Queries
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- CSS Media Queries
+- Responsive Web Design
+
+---
 
 ## Learning Outcomes
 
-* Responsive web design
-* Mobile-first development concepts
-* CSS layout techniques
-* Cross-device compatibility
+- Responsive Design Principles
+- Mobile-First Development
+- CSS Flexbox
+- CSS Grid
+- Media Queries
+- Cross-Device Compatibility
+- Navigation Design
 
-## Project Status
+---
+
+## Status
 
 ✅ Completed
 
+---
+
 ## Author
 
-Sanskruti Shelar<br>
+**Sanskruti Shelar** <br> 
 Frontend Development Intern<br>
 DecodeLabs
